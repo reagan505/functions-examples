@@ -27,7 +27,7 @@ function displaySum() {
   console.log (a + b)
 }
 
-displaySum();
+displaySum(a ,b);
 
 function displaySum(a , b) {
 //  let sum = a + b
@@ -35,3 +35,10 @@ console.log(a + b);
 }
 
 displaySum(8 , 28);
+
+function addSum(a ,b) {
+  return a +b;
+  // let sum = a + b
+
+}
+console.log(addSum(8 , 28))
