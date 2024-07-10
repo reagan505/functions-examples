@@ -12,7 +12,7 @@ const greet2 = (fname, IName, gender, age) =>{
     console.log(fname, IName, gender, age);
 }
 
-greet2("Reagan \n", "Gachanja", "male", 50);
+greet2("Reagan \n", "Gachanja\n", "male\n", 50);
 
 // var name "Reagan";
 
